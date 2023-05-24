@@ -1,1 +1,1 @@
-# Projeto Alura - Site p/ Barbearia
+# Projeto Barbearia Alura - Curso Online HTML e CSS
